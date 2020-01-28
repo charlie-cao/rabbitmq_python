@@ -114,3 +114,5 @@ RabbitMQ 的4种集群架构
 
  
 test dev 
+
+test fix#1
